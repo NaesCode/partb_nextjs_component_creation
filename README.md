@@ -9,7 +9,7 @@ This component is displayed on the home page (localhost:3000) by importing the c
 Client Side Rendering. This component is interactive and uses a client-only feature called "useState". Therefore, I rendered this on the Client side. This is also where I learned
 about Tailwind CSS props and how they can beautify most of your website components and web pages.
 
-3. StudentInfo Component - This component handles inputs, and this is where I first learned about "<forms>". Concepts such as: Mapping over an array to dynamically render input and 
+3. StudentInfo Component - This component handles inputs, and this is where I first learned about "<<forms>>". Concepts such as: Mapping over an array to dynamically render input and 
 Conditional rendering was also implemented.
 
 
