@@ -1,3 +1,20 @@
+This is my first deep dive into learning Next.js and Next.js component creation.
+
+This repo contains my Next.js code with 3 components, each displayed through concepts like routing and navigation.
+
+1. WelcomeCard Component - Created with mostly images/gifs, this component displays a welcome message with animation. This component is where I first learned about imports.
+This component is displayed on the home page (localhost:3000) by importing the component on the page.tsx file.
+
+2. Interactive Counter Component - This component is an interactive component. This is where I learned about the difference in usage between Server Side Rendering and
+Client Side Rendering. This component is interactive and uses a client-only feature called "useState". Therefore, I rendered this on the Client side. This is also where I learned
+about Tailwind CSS props and how they can beautify most of your website components and web pages.
+
+3. StudentInfo Component - This component handles inputs, and this is where I first learned about <forms>. Concepts such as: Mapping over an array to dynamically render input and 
+Conditional rendering was also implemented.
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
